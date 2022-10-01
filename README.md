@@ -1,6 +1,7 @@
 # FrankenFlic
 HorrorHacks 2022 Submission
 - HuggingFace Model Link: https://huggingface.co/Tabaxi3K/FrankenFlic
+- Link to Website/App: https://huggingface.co/spaces/Tabaxi3K/FrankenFlic
 - YouTube Demo Link:
 - Devpost Submission: 
 
