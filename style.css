@@ -1,0 +1,13 @@
+body {
+    color: #fff;
+    background-color: #000;
+}
+
+.stButton>button {
+    color: #000;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
